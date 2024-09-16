@@ -85,7 +85,7 @@ Refer to :ref:`install-source` to install RLCatalyst directly from source
 
 
 
-Working with RL Catalyst
+Working with RL-Catalyst
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 Basic Scenarios - Using RLCatalyst Instance
